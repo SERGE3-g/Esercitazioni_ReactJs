@@ -68,7 +68,6 @@ Each of the 3 programming languages will always be represented.
 
 // Nel secondo caso di test, il numero di sviluppatori JavaScript (4) è 2 volte superiore al numero di sviluppatori Python (1), quindi la funzione dovrebbe restituire true.
 
-// Se vuoi, puoi provare a risolvere questo esercizio senza usare map, forEach, Math.max, Math.min o Object.values. Puoi usare solo un ciclo for e un oggetto per tenere traccia del numero di sviluppatori per ogni linguaggio di programmazione.
 
 
 
