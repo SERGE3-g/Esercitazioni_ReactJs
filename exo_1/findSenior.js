@@ -17,7 +17,6 @@ your function should return the following array:
 [{ firstName: 'Gabriel', lastName: 'X.', country: 'Monaco', continent: 'Europe', age: 49, language:'PHP' },
 { firstName: 'Sou', lastName: 'B.', country: 'Japan', continent: 'Asia', age: 49, language: 'PHP' }]
 
-
 */
 
 // Solution 1
